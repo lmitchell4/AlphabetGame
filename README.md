@@ -9,7 +9,7 @@ randomly missing.
 The player must use their knowledge of the alphabet to deduce which 
 letters belong in the blank spots.
 
-<img style="width:400px;" src="https://github.com/lmitchell4/AlphabetGame/blob/master/images/example_game.png" alt="Example game">
+<img style="width:500px;" src="https://github.com/lmitchell4/AlphabetGame/blob/master/images/example_game.png" alt="Example game">
 
 ## How to Play
 
