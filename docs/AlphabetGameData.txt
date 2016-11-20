@@ -1,0 +1,5 @@
+Dave	8	14
+Susan	1	0
+Joe 	2	2
+John	2	2
+Tony	2	6
